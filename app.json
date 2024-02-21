@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "router-bug",
+    "slug": "router-bug",
+    "plugins": ["expo-router"]
+  }
+}
