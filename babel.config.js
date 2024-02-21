@@ -14,7 +14,6 @@ module.exports = function (api) {
           allowUndefined: true,
         },
       ],
-      require.resolve('expo-router/babel'),
       [
         'module-resolver',
         {
